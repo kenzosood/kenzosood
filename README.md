@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on Cyber Security and Full Stack
+🔭 I’m currently working on Cyber Security
 
 🌱 I’m currently learning React JS and Hacking Tools 
 
