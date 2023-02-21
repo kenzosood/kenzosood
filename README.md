@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Cyber Security
 
-🌱 I’m currently learning React JS and Hacking Tools 
-
 👯 I’m looking to collaborate on Opensource projects
 
 🤔 I’m looking for help with How docker works
