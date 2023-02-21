@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 #### Total contribution
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenzosood&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenzosood &theme=tokyonight" alt="mystreak"/>
 
 #### Contribution Graph
 
-![Snake animation](https://github.com/kenzosood/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/kenzosood/kenzosood/blob/output/github-contribution-snake.svg)
 
 
 #### Github trophy
