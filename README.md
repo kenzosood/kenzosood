@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### Contribution Graph
 
-![Snake animation](https://github.com/rahul05ranjan/rahul05ranjan/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/kenzosood/blob/output/github-contribution-snake.svg)
 
 
 #### Github trophy
