@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Opensource projects
 
-🤔 I’m looking for help with How docker works
 
 
 📫 How to reach me:  DM on [<img src="https://img.shields.io/badge/-Instagram-red" />](https://instagram.com/kenzosood "DM on Instagram")
